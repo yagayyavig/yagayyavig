@@ -63,24 +63,4 @@ I am a software developer and digital forensics student with a foundation in ful
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
----
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yagayyavig&show_icons=true&theme=onedark&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yagayyavig&theme=onedark&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagayyavig&layout=compact&theme=onedark&hide_border=true" width="48%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=yagayyavig&theme=onedark&no-frame=true&no-bg=true&margin-w=4" width="48%" />
-</p>
-
----
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=yagayyavig&icon=0&color=6" alt="Profile Visits" />
-  </a>
-</p>
